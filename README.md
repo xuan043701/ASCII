@@ -34,5 +34,4 @@ pip install blessed opencv-python numpy
 > 1. 导航到脚本目录：使用 'cd' 命令切换到包含 main.py 的目录。例如，如果你的脚本在' C:\Users\xuan0\PycharmProjects\PythonProject'目录下，你可以输入：
  cd C:\Users\xuan0\PycharmProjects\PythonProject
 >2. 运行脚本：在命令提示符中输入以下命令来运行你的脚本：
-
-   python main.py
+> python main.py
